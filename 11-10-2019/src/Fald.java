@@ -16,6 +16,7 @@ public class Fald {
                 System.out.println("Hastighed i slut " + v + " meter/sekunder");
             }
         }
-        System.out.println("Ikke tal");
+        else
+            System.out.println("Ikke tal");
     }
 }
