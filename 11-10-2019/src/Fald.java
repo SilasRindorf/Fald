@@ -15,7 +15,7 @@ public class Fald {
                 System.out.println("Tid for fald: " + tid + " sekunder");
                 System.out.println("Hastighed i slut " + v + " meter/sekunder");
             }
-            System.out.println("Ikke tal");
         }
+        System.out.println("Ikke tal");
     }
 }
