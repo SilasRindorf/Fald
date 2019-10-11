@@ -17,6 +17,6 @@ public class Fald {
             }
         }
         else
-            System.out.println("Ikke tal");
+            System.out.println("Ikke et tal");
     }
 }
